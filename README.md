@@ -13,7 +13,9 @@ F1_Score 0.6점 이상 수료 조건
 
 상명대 스마트정보통신공학과 박혁준
 ![LG AI 박혁준 수료증-1](https://github.com/JJamJaemin/LG_Aimers_Capston/assets/128075457/fa0f88a6-a14a-4a78-a691-235641952ec3)
+
 상명대 소프트웨어학과 오채은
+![LG AI 오채은 수료증-1](https://github.com/JJamJaemin/LG_Aimers_Capston/assets/128075457/05abf37d-ff29-4d1d-9601-f9e8a87390b3)
 
 상명대 소프트웨어학과 유다연
 ![LG AI 유다연 수료증-1](https://github.com/JJamJaemin/LG_Aimers_Capston/assets/128075457/08fc8609-28b6-4657-8e56-492ad0a1af5d)
